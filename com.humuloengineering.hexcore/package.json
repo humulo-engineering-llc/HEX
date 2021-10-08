@@ -1,0 +1,19 @@
+{
+  "name": "com.humuloengineering.hexcore",
+  "version": "1.0.0",
+  "displayName": "Humulo Engineering XR Core",
+  "description": "Humulo Engineering XR custom core tools used throughout Humulo Unity apps.",
+  "unity": "2020.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "HumuloEngineering",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "tool"
+}
