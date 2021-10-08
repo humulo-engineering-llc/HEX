@@ -5,6 +5,9 @@
   "description": "Humulo Engineering XR custom core tools used throughout Humulo Unity apps.",
   "unity": "2020.1",
   "unityRelease": "0b5",
+  "dependencies": {
+    "com.unity.xr.picoxr": "1.2.2"
+  },
   "keywords": [
     "keyword1",
     "keyword2",
