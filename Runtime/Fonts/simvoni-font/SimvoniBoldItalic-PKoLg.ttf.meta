@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 96cca43630a6c104d9325fc1438fcb10
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Simvoni
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 765bd487c0c92a143b81ae9551a2638d, type: 3}
+  - {fileID: 12800000, guid: 4422d731b5b7cd9478d06f6735e7c063, type: 3}
+  - {fileID: 12800000, guid: c5d7ae4131d50de499e4a2ca6f273ab6, type: 3}
+  - {fileID: 12800000, guid: 944151a4ee9e87a4ca5007e7f185aaea, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
